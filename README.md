@@ -26,3 +26,7 @@ Implementation:
 2. Got Locators and Created Page Object Model
 3. Created Tests for required test cases
 4. Assertion of actual output with expected output 
+
+Important* 
+1.There was some issue with provided twitter credentials(wrong username or password). 
+2. Please provide UDID manually in config.ini file
