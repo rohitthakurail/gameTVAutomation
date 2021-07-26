@@ -26,6 +26,9 @@ Implementation:
 2. Got Locators and Created Page Object Model
 3. Created Tests for required test cases
 4. Assertion of actual output with expected output 
+5. Created config.ini file to take values of variables used in test suite.
+6. Configured Logger.
+7. Configured pytest-html for generating reports of tests.
 
 Important* 
 1.There was some issue with provided twitter credentials(wrong username or password). 
